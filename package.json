@@ -22,7 +22,7 @@
     "@angular/platform-browser": "~14.2.0",
     "@angular/platform-browser-dynamic": "~14.2.0",
     "@angular/router": "~14.2.0",
-    "@nrwl/angular": "14.7.13",
+    "@nrwl/angular": "16.0.0",
     "@swimlane/ngx-charts": "^20.1.0",
     "@types/lodash.clonedeep": "^4.5.7",
     "ag-grid-angular": "^28.1.1",
@@ -30,7 +30,7 @@
     "date-fns": "^2.29.3",
     "lodash.clonedeep": "^4.5.0",
     "ng-let": "^14.0.1",
-    "read-excel-file": "^5.5.0",
+    "read-excel-file": "^5.8.4",
     "rxjs": "~7.5.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.11.4"
